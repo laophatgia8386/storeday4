@@ -1,0 +1,43 @@
+
+.all {
+    margin-left: 100px;
+    margin-right: 965px;
+    border: 1px double #454243;
+}
+
+.text {
+    color: white;
+    background-color: red;
+    position: absolute;
+    top: 10px;
+}
+
+.image {
+    width: 453px;
+    background-color: gray;
+}
+
+.information {
+    background-color: white;
+    text-align: center;
+}
+
+.information__line1 {
+    color: dimgray;
+}
+
+.information__line3 {
+    color: gray;
+}
+
+.cost {
+
+}
+
+.cost__old {
+    text-decoration-line: line-through;
+}
+
+.cost__new {
+    font-size: 25px;
+}
